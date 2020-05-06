@@ -6,4 +6,4 @@ This repository hosts source content for this [website](https://ssullivan18.gith
 
 [Ptolemy Group Project](https://github.com/ssullivan18/portfolio/blob/master/ptolemy.ipynb)
 
-[Final Tombs Analysis](https://github.com/ssullivan18/portfolio/blob/master/lycia-tombs-final-project.ipynb)
+[Final Tombs Analysis](https://github.com/ssullivan18/portfolio/blob/master/lycia-tombs-final-project.ipynb) 
